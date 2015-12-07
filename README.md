@@ -1,4 +1,4 @@
-CS4700
+blackjack
 ======
 
-AI Final Project
+blackjack
